@@ -1,0 +1,9 @@
+.regular{
+    list-style: disc;
+}
+.square{
+    list-style: square;
+}
+.round{
+    list-style: circle;
+}
